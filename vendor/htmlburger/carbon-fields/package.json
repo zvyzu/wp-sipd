@@ -62,7 +62,7 @@
   "dependencies": {
     "@babel/runtime": "^7.14.8",
     "@wordpress/api-fetch": "^6.23.1",
-    "@wordpress/blocks": "^12.3.3",
+    "@wordpress/blocks": "^13.4.0",
     "@wordpress/components": "^23.3.6",
     "@wordpress/compose": "^6.3.3",
     "@wordpress/data": "^8.3.3",
