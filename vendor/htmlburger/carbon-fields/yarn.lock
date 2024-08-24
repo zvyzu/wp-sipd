@@ -2468,10 +2468,17 @@
   dependencies:
     "@babel/runtime" "^7.16.0"
 
-"@wordpress/hooks@^3.26.1", "@wordpress/hooks@^3.32.0", "@wordpress/hooks@^3.45.0":
+"@wordpress/hooks@^3.32.0", "@wordpress/hooks@^3.45.0":
   version "3.45.0"
   resolved "https://registry.yarnpkg.com/@wordpress/hooks/-/hooks-3.45.0.tgz#356a590ee2c92282a92edc06b52d3952fb74efda"
   integrity sha512-cqd5Dv4lp4S5UAip2/bMm2TZiFxs7/sKNq9/73BlKFSmc9hgqgkmcctfER+nVxiYafUNGATyQmDRpJU6R3NaDw==
+  dependencies:
+    "@babel/runtime" "^7.16.0"
+
+"@wordpress/hooks@^4.4.0":
+  version "4.6.0"
+  resolved "https://registry.yarnpkg.com/@wordpress/hooks/-/hooks-4.6.0.tgz#f5e2e3a452fdbc6040b261a8cc94a0bf1b31da9e"
+  integrity sha512-FWJhubBXeyRhx12YUmxT9pNoV9Azvx8nkynhduV+RNgA+F2SXoOf15pr+USPV//m3Bx031GN/wPHjgUCbC6+XA==
   dependencies:
     "@babel/runtime" "^7.16.0"
 
